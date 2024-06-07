@@ -1,0 +1,1 @@
+Server is running on port \\.\pipe\adafa70d-df0f-4cb3-a2ce-a1d00c912a1e

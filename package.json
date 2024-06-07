@@ -1,0 +1,16 @@
+{
+    "name": "appnomina",
+    "version": "3",
+    "description": "Aplicacion ANSES",
+    "main": "app.cjs",
+    "type": "module",
+    "scripts": {
+        "start": "node app.cjs"
+    },
+    "author": "Grupo Nomina",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.10",
+        "express": "^4.19.2"
+    }
+}
